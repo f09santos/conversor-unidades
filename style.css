@@ -1,0 +1,15 @@
+body {
+
+    margin-top: 50px;
+    padding: 45px;
+    font-size: 25px;
+    color: black ;
+    background-image:url(./foto3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+.converter {
+    display: inline-block;
+}
+
